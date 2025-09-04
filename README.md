@@ -6,9 +6,9 @@ Als alle volgende cellen al bezocht zijn, gaat het systeem terug naar de laatste
 Het algoritme stopt wanneer het proces terugkomt op het startpunt.
 
 ### Tijdsbesteding per onderdeel
-Player controller importeren van Unity's template: 3 minuten
-Generator voor doolhof: 30 minuten
-Minimap: 5 minuten
-Timer: 5 minuten
-Win systeem: 10 minuten
-UI & Feedback: 10 minuten
+- Player controller importeren van Unity's template: 3 minuten
+- Generator voor doolhof: 30 minuten
+- Minimap: 5 minuten
+- Timer: 5 minuten
+- Win systeem: 10 minuten
+- UI & Feedback: 10 minuten
